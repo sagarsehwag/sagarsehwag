@@ -18,11 +18,11 @@
 
 <!-- Don't remove this --- https://github.com/ombharatiya -->
 
-# ❤ to Build - Software Engineer & Enthusiast!
-
-:zap:  **Software Engineer** from **India** with an experience of 1 years :zap:
+## ❤ to Build - Software Engineer!
 
 :rocket: &nbsp;Hi, I'm Sagar — a **Software Engineer** at **Zomato** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, phychology & philosophy. ✌💖
+
+🔭 I’m currently working on Node, React, Golang
 
 :airplane: &nbsp; **You can hire me for remote work**
 
