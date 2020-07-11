@@ -1,8 +1,28 @@
-### Hello there 👋
+<!-- icons  -->
+
+[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin)
+[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github)
+[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter)
+[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium)
+[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow)
+[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev)
+
+<!-- links to my social media accounts -->
+
+[1]: https://www.linkedin.com/in/sagarsehwag
+[2]: https://www.github.com/sagarsehwag
+[3]: https://www.twitter.com/
+[4]: http://www.medium.com/@
+[5]: https://stackoverflow.com/
+[6]: http://dev.to/
+
+<!-- Don't remove this --- https://github.com/ombharatiya -->
+
+# ❤ to Build - Software Engineer & Enthusiast!
 
 :zap:  **Software Engineer** from **India** with an experience of 1 years :zap:
 
-:rocket: &nbsp; I've built, migrated, and scaled products from scratch. I take care of both software architecture and sofware development where I was building both the backends and the frontends of B2B applications.
+:rocket: &nbsp;Hi, I'm Sagar — a **Software Engineer** at **Zomato** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, phychology & philosophy. ✌💖
 
 :airplane: &nbsp; **You can hire me for remote work**
 
