@@ -1,4 +1,4 @@
-:zap: &nbsp;Hi, I'm Sagar — a **Software Engineer** from **India** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, freelancing, phychology & philosophy. :zap:
+:zap: &nbsp;Hi, I'm Sagar — a **Software Engineer** from **India** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, freelancing, psychology & philosophy. :zap:
 
 🔭 I’m currently working on node.js, react.js & golang
 
