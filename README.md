@@ -1,6 +1,6 @@
 :zap: &nbsp;Hi, I'm Sagar — a **Software Engineer** from **India** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, freelancing, psychology & philosophy. :zap:
 
-🔭 I’m currently working on node.js, react.js & golang
+🔭 &nbsp;I’m currently working on node.js, react.js & golang
 
 :airplane: &nbsp; **You can hire me for remote work**
 
