@@ -4,6 +4,7 @@
 
 :airplane: &nbsp; **You can hire me for remote work**
 
+- 🌐 Check out my portfolio: **[sagarsehwag.github.io](https://sagarsehwag.github.io/)**
 - :briefcase: &nbsp; Do read my resume here: **[Google Drive](https://drive.google.com/file/d/1j3d1szGLGvHOqKu6zk2GEx7956jGqm8W/view?usp=sharing)**
 - :mortar_board: &nbsp; Completed a B.Tech in Computer Science and Engineering
 - :books:  &nbsp; Reading more about how computer works, under the hood
